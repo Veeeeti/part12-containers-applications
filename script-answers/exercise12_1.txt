@@ -1,0 +1,25 @@
+StatusCode        : 200
+StatusDescription : OK
+Content           : <!DOCTYPE html>
+                    <html lang="en" dir="ltr" prefix="og: https://ogp.me/ns#">
+                    <head>
+                      <meta charset="utf-8" /><script type="text/javascript">(window.NREUM||(NREUM={})).init={pr
+                    ivacy:{cookies_enabled:fal...
+RawContent        : HTTP/1.1 200 OK
+                    X-Drupal-Dynamic-Cache: MISS
+                    Link: <https://www.helsinki.fi/en>; rel="shortlink", <https://www.helsinki.fi/en>; rel="cano
+                    nical",<https://www.helsinki.fi/fi>; rel="alternate"; hreflan...
+Forms             : {}
+Headers           : {[X-Drupal-Dynamic-Cache, MISS], [Link, <https://www.helsinki.fi/en>; rel="shortlink", <http
+                    s://www.helsinki.fi/en>; rel="canonical",<https://www.helsinki.fi/fi>; rel="alternate"; href
+                    lang="fi",<https://www.helsinki.fi/sv>; rel="alternate"; hreflang="sv",<https://www.helsinki 
+                    .fi/en>; rel="alternate"; hreflang="en",<https://www.helsinki.fi/en/frontpage>; rel="revisio 
+                    n"], [X-UA-Compatible, IE=edge], [Content-language, en]...}
+Images            : {}
+InputFields       : {@{innerHTML=; innerText=; outerHTML=<INPUT id=pid-145767 type=hidden value=145767 name=pid> 
+                    ; outerText=; tagName=INPUT; id=pid-145767; type=hidden; value=145767; name=pid}}
+Links             : {@{innerHTML=Skip to main content ; innerText=Skip to main content ; outerHTML=<A class="vis
+                    ually-hidden focusable" href="#main-content">Skip to main content </A>; outerText=Skip to ma 
+                    in content ; tagName=A; class=visually-hidden focusable; href=#main-content}}
+ParsedHtml        : System.__ComObject
+RawContentLength  : 341962
