@@ -1,0 +1,4 @@
+docker start -i keen_yonath
+apt-get update
+apt-get -y install nano
+nano /usr/src/app/index.js
